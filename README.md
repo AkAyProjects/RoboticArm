@@ -90,3 +90,19 @@ RoboticArm/
 MIT License – feel free to use, modify, and contribute!
 
 ---
+
+Technical progress
+
+The project consists of:
+
+MECHANICAL
+Check this repo: agv-mechanical
+
+ELECTRICAL
+Check this repo: agv-electrical
+
+SOFTWARE
+Check this repo: agv-sw
+
+GUI
+Check this repo: agv-gui
